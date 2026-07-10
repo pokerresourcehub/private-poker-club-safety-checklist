@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pokerresourcehub.github.io/private-poker-club-safety-checklist/sitemap.xml
